@@ -1,0 +1,10 @@
+Class
+    - Data & methods
+Instance
+Constructor
+    - init method inside class...initiates data inside instance
+Self
+Instance variable
+    - variables unique to instance
+Instance method
+	-function defined within class
